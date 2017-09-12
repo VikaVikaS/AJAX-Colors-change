@@ -1,0 +1,30 @@
+[
+	{
+		"id":"green",
+		"imgs": [
+				"http://via.placeholder.com/350x250/8eed4e/fff",
+				"http://via.placeholder.com/350x250/8eed4e/fff",
+				"http://via.placeholder.com/350x250/8eed4e/fff",
+				"http://via.placeholder.com/350x250/8eed4e/fff"
+		]
+	},
+	{
+		"id":"blue",
+		"imgs": [
+				"http://via.placeholder.com/350x250/4e81ed/fff",
+				"http://via.placeholder.com/350x250/4e81ed/fff",
+				"http://via.placeholder.com/350x250/4e81ed/fff",
+				"http://via.placeholder.com/350x250/4e81ed/fff"
+		]
+	},
+	{
+		"id":"red",
+		"imgs": [
+				"http://via.placeholder.com/350x250/f03232/fff",
+				"http://via.placeholder.com/350x250/f03232/fff",
+				"http://via.placeholder.com/350x250/f03232/fff",
+				"http://via.placeholder.com/350x250/f03232/fff"
+		]
+	}
+]
+
